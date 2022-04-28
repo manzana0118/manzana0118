@@ -2,8 +2,10 @@
   <h1>Hello, I'm DAHYE KIM who wants to be a Front-end Developer.</h1>
   <p align="center"><img src="https://user-images.githubusercontent.com/102004400/165778841-ca9555bf-136b-4ad2-bc69-179d874a4bed.jpg"></p>
   <h3> Will you look for me in the picture above?😆</h3>
+  <br/>
+  <br/>
   <h2> Let me introduce myself!☺ </h2>
-  I'm currently living in South Korea :kr: and attending an academy to become a front-end developer. And I like to sit in front of the computer and do coding the most.
+  I'm currently living in South Korea 🇰🇷 and attending an academy to become a front-end developer. And I like to sit in front of the computer and do coding the most.
   My favorite food is salmon, tteokbokki, black tea, etc. and my least favorite food is skate. I like to exercise, so I have tried judo, kendo, climbing, swimming, and boxing, and if I have a chance, I want to have nice abs.
   <br/>
   <br/>
