@@ -6,7 +6,6 @@
   <h2> Let me introduce myself!☺ </h2>
   I'm currently living in South Korea :kr: and attending an academy to become a front-end developer. And I like to sit in front of the computer and do coding the most.
   My favorite food is salmon, tteokbokki, black tea, etc. and my least favorite food is skate. I like to exercise, so I have tried judo, kendo, climbing, swimming, and boxing, and if I have a chance, I want to have nice abs.
-  
   <br/>
   <h2>My tech Stack 📚</h2>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
