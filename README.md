@@ -4,7 +4,7 @@
   <h3> Will you look for me in the picture above?😆</h3>
   <br/>
   <h2> Let me introduce myself!☺ </h2>
-  I'm currently living in South Korea 🇰🇷 and attending an academy to become a front-end developer. And I like to sit in front of the computer and do coding the most.
+  I'm currently living in South Korea and attending an academy to become a front-end developer. And I like to sit in front of the computer and do coding the most.
   My favorite food is salmon, tteokbokki, black tea, etc. and my least favorite food is skate. I like to exercise, so I have tried judo, kendo, climbing, swimming, and boxing, and if I have a chance, I want to have nice abs.
   <br/>
   <br/>
@@ -14,6 +14,8 @@
   <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img alt="Git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="Github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
   <br/>
   <br/>
 </div>
