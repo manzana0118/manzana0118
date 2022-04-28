@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Hello, I'm DAHYE KIM who wants to be a Front-end Developer.</h1>
+  <h1>Hello, I'm DAHYE KIM</h1>
   <p align="center"><img src="https://user-images.githubusercontent.com/102004400/165778841-ca9555bf-136b-4ad2-bc69-179d874a4bed.jpg"></p>
   <h3> Will you look for me in the picture above?😆</h3>
-  <br/>
   <br/>
   <h2> Let me introduce myself!☺ </h2>
   I'm currently living in South Korea 🇰🇷 and attending an academy to become a front-end developer. And I like to sit in front of the computer and do coding the most.
@@ -15,6 +14,8 @@
   <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <br/>
+  <br/>
 </div>
 
 
