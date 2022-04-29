@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm DAHYE KIM</h1>
-  <p align="center"><img src="https://user-images.githubusercontent.com/102004400/165956119-9b2bd749-d248-4b7b-9f33-22e72de622f0.png"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/102004400/165957049-dfee6fff-e6d0-49d9-8bee-e2d6d84251e0.jpg"></p>
   <h3> Will you look for me in the picture above?😆</h3>
   <br/>
   <h2> Let me introduce myself!☺ </h2>
